@@ -13,5 +13,5 @@ Daniel Howes - Entire Project - Rathunt
 
 # Acknowledgements 
 * [Guiem](https://github.com/guiem) for inspiring this work with his post on Reddit!
-
 * Code clan article on Facebook messenger analysis.
+* Alastair Hamilton for his advice - [kr4in](https://github.com/kr4in/)
