@@ -10,4 +10,4 @@ Facebook will then create a file for you (I suggest choosing .json as it is clea
 Daniel Howes - Entire Project - Rathunt 
 
 # Acknowledgements 
-@Guiem for inspiring this work with his post on Reddit!
+[Guiem](https://github.com/guiem) for inspiring this work with his post on Reddit!
