@@ -10,6 +10,6 @@ Facebook will then create a file for you (I suggest choosing .json as it is clea
 Daniel Howes - Entire Project - Rathunt 
 
 # Acknowledgements 
-[Guiem](https://github.com/guiem) for inspiring this work with his post on Reddit!
+* [Guiem](https://github.com/guiem) for inspiring this work with his post on Reddit!
 
-Code clan article on Facebook messenger analysis.
+* Code clan article on Facebook messenger analysis.
