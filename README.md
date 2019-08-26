@@ -7,6 +7,7 @@ To get your file from all your facebook messages you can go to https://www.faceb
 Facebook will then create a file for you (I suggest choosing .json as it is cleaner) to download. This may take a few hours.
 
 # Notebooks
+The notebook for this is Message Analysis V2.ipynb. I have included some of commented out code to document my own learning.
 
 # Authors 
 Daniel Howes - Entire Project - Rathunt 
